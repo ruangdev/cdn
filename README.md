@@ -1,5 +1,24 @@
-# Dokumentasi Penggunaan CDN
+---
+
+# 📄 **Dokumentasi CDN Ruang Dev Indonesia**
 ## Proyek-Proyek oleh Ruang Dev Indonesia
 
 ### Pendahuluan
-CDN (Content Delivery Network) adalah jaringan server yang tersebar di berbagai lokasi geografi, yang bertujuan untuk menyampaikan konten kepada pengguna dengan lebih cepat dan efisien. Dengan menggunakan CDN, proyek-proyek yang dikembangkan oleh Ruang Dev Indonesia dapat memanfaatkan kecepatan akses yang lebih tinggi dan mengurangi beban server utama.
+CDN (Content Delivery Network) adalah jaringan server yang tersebar secara geografis, yang bertujuan untuk menyampaikan konten kepada pengguna dengan lebih cepat dan efisien. Dengan memanfaatkan CDN, proyek-proyek yang dikembangkan oleh Ruang Dev Indonesia dapat memberikan akses yang lebih cepat dan mengurangi beban pada server utama.
+
+### **Kapan Menggunakan CDN?**
+
+Gunakan CDN untuk:
+- Menyajikan file statis (CSS, JavaScript, gambar) dengan lebih cepat.
+- Mengurangi beban pada server utama.
+- Memastikan pengguna dari berbagai lokasi mendapatkan konten dengan waktu muat yang optimal.
+
+---
+
+### Manfaat Menggunakan CDN
+- **Kecepatan:** Menyediakan konten lebih cepat dengan lokasi server yang lebih dekat dengan pengguna.
+- **Keandalan:** Meningkatkan ketersediaan konten dan mengurangi risiko downtime.
+- **Skalabilitas:** Mampu menangani lonjakan lalu lintas dengan lebih efisien.
+
+---
+Dengan menggunakan link CDN ini, proyek Anda akan memperoleh akses cepat ke file-file statis yang dibutuhkan tanpa harus bergantung sepenuhnya pada server utama Ruang Dev Indonesia.
