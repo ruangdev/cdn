@@ -21,4 +21,4 @@ Gunakan CDN untuk:
 - **Skalabilitas:** Mampu menangani lonjakan lalu lintas dengan lebih efisien.
 
 ---
-Dengan menggunakan [link CDN ini](https://doc.ruangdev.id/), <a href="https://doc.ruangdev.id/" target="_blank">link CDN ini</a> proyek Anda akan memperoleh akses cepat ke file-file statis yang dibutuhkan tanpa harus bergantung sepenuhnya pada server utama Ruang Dev Indonesia.
+Dengan menggunakan <a href="https://doc.ruangdev.id/" target="_blank">link CDN ini</a> proyek Anda akan memperoleh akses cepat ke file-file statis yang dibutuhkan tanpa harus bergantung sepenuhnya pada server utama Ruang Dev Indonesia.
